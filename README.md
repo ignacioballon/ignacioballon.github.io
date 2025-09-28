@@ -4,7 +4,7 @@ A responsive, modern portfolio website showcasing my work as a Data Engineer and
 
 ## 🌐 Live Demo
 
-[View Live Site](your-website-url-here)
+[View Live Site](https://ignacioballon.github.io/)
 
 ## 🛠️ Built With
 
@@ -37,23 +37,6 @@ portfolio/
 └── README.md           # Project documentation
 ```
 
-## 🚀 Quick Start
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/portfolio.git
-```
-
-2. Open `index.html` in your browser or serve with a local server:
-```bash
-# Using Python
-python -m http.server 8000
-
-# Using Node.js
-npx serve .
-```
-
-3. Navigate to `http://localhost:8000` to view the site.
 
 ## 📱 Sections
 
